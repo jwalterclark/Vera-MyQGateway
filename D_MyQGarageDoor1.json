@@ -1,8 +1,8 @@
 {
-	"default_icon": "MyQ_garage_open.png",
+	"default_icon": "https://github.com/psincler/Vera-MyQGateway/raw/main/icons/MyQ_garage_open.png",
 	"state_icons": [
 		{
-			"img": "MyQ_garage_open.png",
+			"img": "https://github.com/psincler/Vera-MyQGateway/raw/main/icons/MyQ_garage_open.png",
 			"conditions": [
 				{
 					"service": "urn:upnp-org:serviceId:SwitchPower1",
@@ -13,7 +13,7 @@
 			]
 		},
 		{
-			"img": "MyQ_garage_closed.png",
+			"img": "https://github.com/psincler/Vera-MyQGateway/raw/main/icons/MyQ_garage_closed.png",
 			"conditions": [
 				{
 					"service": "urn:upnp-org:serviceId:SwitchPower1",
@@ -24,7 +24,7 @@
 			]
 		},
 		{
-			"img": "MyQ_garage_stopped.png",
+			"img": "https://github.com/psincler/Vera-MyQGateway/raw/main/icons/MyQ_garage_stopped.png",
 			"conditions": [
 				{
 					"service": "urn:upnp-org:serviceId:SwitchPower1",
@@ -35,7 +35,7 @@
 			]
 		},
 		{
-			"img": "MyQ_garage_opening.png",
+			"img": "https://github.com/psincler/Vera-MyQGateway/raw/main/icons/MyQ_garage_opening.png",
 			"conditions": [
 				{
 					"service": "urn:upnp-org:serviceId:SwitchPower1",
@@ -46,7 +46,7 @@
 			]
 		},
 		{
-			"img": "MyQ_garage_closing.png",
+			"img": "https://github.com/psincler/Vera-MyQGateway/raw/main/icons/MyQ_garage_closing.png",
 			"conditions": [
 				{
 					"service": "urn:upnp-org:serviceId:SwitchPower1",
@@ -57,7 +57,7 @@
 			]
 		},
 		{
-			"img": "MyQ_garage_faulted.png",
+			"img": "https://github.com/psincler/Vera-MyQGateway/raw/main/icons/MyQ_garage_faulted.png",
 			"conditions": [
 				{
 					"service": "urn:upnp-org:serviceId:SwitchPower1",
@@ -68,7 +68,7 @@
 			]
 		},
 		{
-			"img": "MyQ_garage_offline.png",
+			"img": "https://github.com/psincler/Vera-MyQGateway/raw/main/icons/MyQ_garage_offline.png",
 			"conditions": [
 				{
 					"service": "urn:upnp-org:serviceId:SwitchPower1",
