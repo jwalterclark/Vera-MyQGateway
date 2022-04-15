@@ -1,5 +1,5 @@
 {
-    "default_icon": "MyQ_gateway.png",
+    "default_icon": "https://github.com/psincler/Vera-MyQGateway/raw/main/icons/MyQ_gateway.png",
     "state_icons": [],
     "Tabs": [
         {
